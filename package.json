@@ -1,5 +1,5 @@
 {
-  "name": "custom-date-formatter",
+  "name": "date-manipulator",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
