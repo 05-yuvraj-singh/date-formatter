@@ -5,9 +5,9 @@ This package provides simple date utilities to format dates and calculate relati
 INSTALLATION
 To install this package, use npm (or yarn):
 
-`npm install date-formatter-package`
+`npm install date-formatter`
 or
-`yarn add date-formatter-package`
+`yarn add date-formatter`
 
 
 USAGE
@@ -40,6 +40,15 @@ Functions
 
     returns a date object for the date, just before today (yesterday)
 
+    Example
+    
+    `const date = yesterday();`
+
 3. tomorrow()
 
     returns a date object for the date, just after today (tomorrow)
+    
+    Example
+    
+    `const date = tomorrow();`
+    
